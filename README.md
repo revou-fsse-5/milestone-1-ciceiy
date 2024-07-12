@@ -1,7 +1,7 @@
 # Gourmet Academy Website
 
 This website showcases the Gourmet Academy, a culinary school in Jakarta, Indonesia. It features information about the school, its programs, key features, top instructors, and contact details.<br>
-You can visit the site here: hellopikunikku.site
+You can visit the site here: [hellopikunikku.site](https://hellopikunikku.site)
 
 ## Structure
 
@@ -21,25 +21,25 @@ You can visit the site here: hellopikunikku.site
 ## Development Process
 
 1. Initially, a simple HTML structure was created for each section, without any styling.<br>
-<div style="text-indent: 30px;">
-    <img src="./Images/process-screenshot-1.png" width="400" style="max-width:100%; height:auto;">
-</div>
-2. Each section was styled to ensure it aligned with the design requirements.
+   <div style="text-indent: 30px;">
+       <img src="./Images/process-screenshot-1.png" width="400" style="max-width:100%; height:auto;">
+   </div>
+2. Each section was styled to ensure it aligned with the design requirements.<br>
 3. Media queries were added to ensure the website is responsive down to mobile sizes.<br>
-<div style="text-indent: 30px;">
-    <img src="./Images/process-screenshot-3.png" width="400" style="max-width:100%; height:auto;">
-</div>
+   <div style="text-indent: 30px;">
+       <img src="./Images/process-screenshot-3.png" width="400" style="max-width:100%; height:auto;">
+   </div>
 4. The project was deployed to GitHub and Netlify for easy access and version control.<br>
-<div style="text-indent: 30px;">
-    <img src="./Images/process-screenshot-4.png" width="400" style="max-width:100%; height:auto;"><br>
-</div>
-<div style="text-indent: 30px;">
-    <img src="./Images/process-screenshot-5.png" width="400" style="max-width:100%; height:auto;">
-</div>
-5. The domain purchased last week was connected to the deployed site.
-<div style="text-indent: 30px;">
-    <img src="./Images/process-screenshot-6.png" width="400" style="max-width:100%; height:auto;">
-</div>
+   <div style="text-indent: 30px;">
+       <img src="./Images/process-screenshot-4.png" width="400" style="max-width:100%; height:auto;"><br>
+   </div>
+   <div style="text-indent: 30px;">
+       <img src="./Images/process-screenshot-5.png" width="400" style="max-width:100%; height:auto;">
+   </div>
+5. The domain purchased last week was connected to the deployed site.<br>
+   <div style="text-indent: 30px;">
+       <img src="./Images/process-screenshot-6.png" width="400" style="max-width:100%; height:auto;">
+   </div>
 
 ## Features
 
@@ -53,7 +53,7 @@ You can visit the site here: hellopikunikku.site
    The menu changes to a dropdown row style when the hamburger icon is clicked, making it easy to use.
 
 4. **Smooth Animations**<br>
-   Includes smooth transitions for menu changes, making the experience better.
+   Includes smooth transitions for menu changes, enhancing the user experience.
 
 5. **CSS Variables**<br>
    Uses CSS variables to easily change and manage styles across the website.
@@ -66,14 +66,17 @@ You can visit the site here: hellopikunikku.site
 2. **Hover Effects**<br>
    Buttons and links have subtle effects when hovered over, making them interactive.
 
-## References, Design Choices, Consideration
+## References, Design Choices, Considerations
 
-- **Layout reference:** https://im3.id/portal/id/indexpersonal<br>
-- **Content reference:** http://budoacademy.rf.gd/?i=3
-<div style="text-indent: 30px;">
-    <img src="./Images/reference-screenshot-1" width="400" style="max-width:100%; height:auto;">
-</div>
-- **Additional content references:** https://www.ciachef.edu/ and other similar academy websites.
-<div style="text-indent: 30px;">
-    <img src="./Images/reference-screenshot-2" width="400" style="max-width:100%; height:auto;">
-</div>
+- **Layout reference:** [im3.id](https://im3.id/portal/id/indexpersonal)<br>
+   <div style="text-indent: 30px;">
+       <img src="./Images/reference-screenshot-1.png" width="400" style="max-width:100%; height:auto;">
+   </div>
+- **Content reference:** [budoacademy.rf.gd](http://budoacademy.rf.gd/?i=3)<br>
+   <div style="text-indent: 30px;">
+       <img src="./Images/reference-screenshot-1.png" width="400" style="max-width:100%; height:auto;">
+   </div>
+- **Additional Content reference:** [ciachef.edu](https://www.ciachef.edu/) and other similar academy websites.<br>
+   <div style="text-indent: 30px;">
+       <img src="./Images/reference-screenshot-2.png" width="400" style="max-width:100%; height:auto;">
+   </div>
