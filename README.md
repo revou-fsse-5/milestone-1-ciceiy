@@ -18,6 +18,29 @@ You can visit the site here: hellopikunikku.site
 - **Top Instructors:** Details about the school's top instructors.
 - **Footer:** Contact information and subscription form.
 
+## Development Process
+
+1. Initially, a simple HTML structure was created for each section, without any styling.<br>
+<div style="text-indent: 30px;">
+    <img src="./Images/process-screenshot-1.png" width="400" style="max-width:100%; height:auto;">
+</div>
+2. Each section was styled to ensure it aligned with the design requirements.
+3. Media queries were added to ensure the website is responsive down to mobile sizes.<br>
+<div style="text-indent: 30px;">
+    <img src="./Images/process-screenshot-3.png" width="400" style="max-width:100%; height:auto;">
+</div>
+4. The project was deployed to GitHub and Netlify for easy access and version control.<br>
+<div style="text-indent: 30px;">
+    <img src="./Images/process-screenshot-4.png" width="400" style="max-width:100%; height:auto;"><br>
+</div>
+<div style="text-indent: 30px;">
+    <img src="./Images/process-screenshot-5.png" width="400" style="max-width:100%; height:auto;">
+</div>
+5. The domain purchased last week was connected to the deployed site.
+<div style="text-indent: 30px;">
+    <img src="./Images/process-screenshot-6.png" width="400" style="max-width:100%; height:auto;">
+</div>
+
 ## Features
 
 1. **Responsive Design**<br>
@@ -42,3 +65,15 @@ You can visit the site here: hellopikunikku.site
 
 2. **Hover Effects**<br>
    Buttons and links have subtle effects when hovered over, making them interactive.
+
+## References, Design Choices, Consideration
+
+- **Layout reference:** https://im3.id/portal/id/indexpersonal<br>
+- **Content reference:** http://budoacademy.rf.gd/?i=3
+<div style="text-indent: 30px;">
+    <img src="./Images/reference-screenshot-1" width="400" style="max-width:100%; height:auto;">
+</div>
+- **Additional content references:** https://www.ciachef.edu/ and other similar academy websites.
+<div style="text-indent: 30px;">
+    <img src="./Images/reference-screenshot-2" width="400" style="max-width:100%; height:auto;">
+</div>
